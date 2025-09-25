@@ -1,10 +1,10 @@
 [package]
-name = "MessageBoard"
+name = "StakingGame"
 version = "1.0.0"
 authors = []
 
 [addresses]
-message_board_addr = "_"
+staking_game_addr = "0xa56010bb2f41cda1d7949d85b9346c74009ab75422bce5eb5c603f40054849ca"
 
 [dependencies]
 AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", rev = "mainnet", subdir = "aptos-move/framework/aptos-framework" }
